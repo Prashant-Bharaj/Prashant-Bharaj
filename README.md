@@ -39,3 +39,6 @@
 <a id="Mail" href="mailto:prashant.bharaj@gmail.com"><img height="20px" src="https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Mail"/></a>
 </p>
 <img src="https://imgur.com/MXTW5Av.png"/>
+<!-- footer -->
+
+![](https://komarev.com/ghpvc/?username=Prashant-Bharaj&color=blueviolet&style=flat-square)
