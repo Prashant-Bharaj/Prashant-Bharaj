@@ -14,6 +14,8 @@
 
 ## Languages, Tools and Framework Known 📜
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
+<img height="32" width="42" src="https://res.cloudinary.com/practicaldev/image/fetch/s--jh5laibJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/mq33e4a63bduhbljfiop.png" />&nbsp;
+<img height="32" width="32" src="https://dartpad.dev/dart-192.png" />&nbsp;
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
