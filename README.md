@@ -4,7 +4,7 @@
 
 - 🌱 I’m a Student from Atal Bihari Vajpayee Government Institute of Engineering and Technology majoring in Computer Science.
 - 💬 Ask me about Machine Learning, and Flutter.
-- 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/prashant-singh-bharaj-4b8849137/) | [website](https://prashant-bharaj.web.app/)
+- 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/prashantbharaj/) | [website](https://prashant-bharaj.web.app/)
 - 😄 Pronouns: "He" | "Him"
 
 <details>
