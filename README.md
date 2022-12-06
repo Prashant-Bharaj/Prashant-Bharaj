@@ -35,7 +35,7 @@
 <!-- footer --!>
 <p align="center">
 <a id="GitHub" href="https://github.com/Prashant-Bharaj/"><img height="20px" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;     
-<a id="LinkedIn" href="https://www.linkedin.com/in/prashant-singh-bharaj-4b8849137/"><img height="20px" src="https://img.shields.io/badge/-prashant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-singh-bharaj-4b8849137/" alt="LinkedIn" /></a> &nbsp;&nbsp;
+<a id="LinkedIn" href="https://www.linkedin.com/in/prashantbharaj/"><img height="20px" src="https://img.shields.io/badge/-prashant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashantbharaj/" alt="LinkedIn" /></a> &nbsp;&nbsp;
 <a id="Mail" href="mailto:prashant.bharaj@gmail.com"><img height="20px" src="https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Mail"/></a>
 </p>
 <img src="https://imgur.com/MXTW5Av.png"/>
