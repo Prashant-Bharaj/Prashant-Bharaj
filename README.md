@@ -2,7 +2,9 @@
 
 <p align="center"><img src="https://imgur.com/wd3bnrm.gif"/></p>
 
-- 🌱 I’m a Student from Atal Bihari Vajpayee Government Institute of Engineering and Technology majoring in Computer Science.
+- 🌱 Currently a student at 42 Berlin.
+- Have done Master in Data Science from University of Europe for applied Sciences.
+- Have done  B.Tech Computer Science from Atal Bihari Vajpayee Government Institute of Engineering and Technology.
 - 💬 Ask me about Machine Learning, and Flutter.
 - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/prashantbharaj/) | [website](https://prashant-bharaj.web.app/)
 - 😄 Pronouns: "He" | "Him"
