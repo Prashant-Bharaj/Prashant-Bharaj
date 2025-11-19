@@ -1,46 +1,92 @@
-### Hi there 👋
 
-<p align="center"><img src="https://imgur.com/wd3bnrm.gif"/></p>
+# 👋 Hi, I'm Prashant Singh
 
-- 🌱 Currently a student at 42 Berlin.
-- Have done Master in Data Science from University of Europe for applied Sciences.
-- Have done  B.Tech Computer Science from Atal Bihari Vajpayee Government Institute of Engineering and Technology.
-- 💬 Ask me about Machine Learning, and Flutter.
-- 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/prashantbharaj/) | [website](https://prashant-bharaj.web.app/)
-- 😄 Pronouns: "He" | "Him"
+<p align="center"><img src="https://imgur.com/wd3bnrm.gif" width="400"/></p>
+
+🚀 **Programmer | Data Scientist | Mobile App Developer (Flutter) | ML Enthusiast**
+🎓 Currently a student at **42 Berlin**
+🎓 **Master’s in Data Science**, University of Europe for Applied Sciences
+🎓 **B.Tech in Computer Science**, ABVGIET
+
+---
+
+## 💡 About Me
+
+* 🔭 I develop **real-world applications**, from mobile apps to backend systems.
+* 🤖 Passionate about **Machine Learning, AI optimisation, and systems programming (C/C++).**
+* 📱 Building production-ready apps using **Flutter, Laravel, MySQL, AWS.**
+* 💬 Ask me about **ML, Flutter, AWS, C programming, backend engineering, API design.**
+* 😄 Pronouns: **He / Him**
+* 🌐 Portfolio: **[prashant-bharaj.web.app](https://prashant-bharaj.web.app/)**
+* 📫 Connect: **[LinkedIn](https://www.linkedin.com/in/prashantbharaj/)**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages, Tools & Frameworks**
+
+<p>
+  <img height="32" src="https://cdn.thekrishna.in/img/icon/python.svg"/>  
+  <img height="32" src="https://thepracticaldev.s3.amazonaws.com/i/mq33e4a63bduhbljfiop.png"/>  
+  <img height="32" src="https://dartpad.dev/dart-192.png"/>  
+  <img height="32" src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png"/>  
+  <img height="32" src="https://cdn.thekrishna.in/img/icon/java.svg"/>  
+  <img height="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg"/>  
+  <img height="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg"/>  
+  <img height="32" src="https://cdn.thekrishna.in/img/icon/tensorflow.svg"/>  
+  <img height="32" src="https://cdn.thekrishna.in/img/icon/androidstudio.svg"/>  
+</p>
+
+---
+
+## 🌍 Languages I Speak
+
+| Language   | Proficiency                                |
+| ---------- | ------------------------------------------ |
+| **German** | **B1 – Intermediate (actively improving)** |
+| English    | Fluent                                     |
+| Hindi      | Native                                     |
+| Punjabi    | Native                                     |
+
+---
 
 <details>
-<summary>
-  <b>More stuff about me</b>
-</summary>
+<summary><b>📌 More About Me</b></summary>
+<br>
 
-## Languages, Tools and Framework Known 📜
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
-<img height="32" width="42" src="https://res.cloudinary.com/practicaldev/image/fetch/s--jh5laibJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/mq33e4a63bduhbljfiop.png" />&nbsp;
-<img height="32" width="32" src="https://dartpad.dev/dart-192.png" />&nbsp;
-  <img height="32" width="32" src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/tensorflow.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/androidstudio.svg" />&nbsp; 
+### 📚 I Enjoy Working On:
 
+* Efficient C programs (42 Berlin projects)
+* Scalable app architectures
+* Machine learning models & optimisation
+* Full-stack mobile apps with Flutter + Firebase/AWS
 
-### Languages 🌐
+### 🎯 Current Goals
 
-| Language      | 
-| ------------- |
-| English       |
-| Hindi         |
-| Punjabi       | 
+* Strengthen low-level programming (C/C++)
+* Expand ML/AI engineering experience
+* Contribute to open-source and community projects
+* Improve German to B2 level
+
 </details>
-<!-- footer --!>
-<p align="center">
-<a id="GitHub" href="https://github.com/Prashant-Bharaj/"><img height="20px" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;     
-<a id="LinkedIn" href="https://www.linkedin.com/in/prashantbharaj/"><img height="20px" src="https://img.shields.io/badge/-prashant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashantbharaj/" alt="LinkedIn" /></a> &nbsp;&nbsp;
-<a id="Mail" href="mailto:prashant.bharaj@gmail.com"><img height="20px" src="https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Mail"/></a>
-</p>
-<img src="https://imgur.com/MXTW5Av.png"/>
-<!-- footer -->
 
-![](https://komarev.com/ghpvc/?username=Prashant-Bharaj&color=blueviolet&style=flat-square)
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+<a href="https://github.com/Prashant-Bharaj/"><img height="22px" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/prashantbharaj/"><img height="22px" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>&nbsp;&nbsp;
+<a href="mailto:prashant.bharaj@gmail.com"><img height="22px" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail"></a>
+</p>
+
+<p align="center">
+ <img src="https://imgur.com/MXTW5Av.png" width="400"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prashant-Bharaj&color=blueviolet&style=flat-square" />
+</p>
