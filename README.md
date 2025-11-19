@@ -3,10 +3,10 @@
 
 <p align="center"><img src="https://imgur.com/wd3bnrm.gif" width="400"/></p>
 
-🚀 **Programmer | Data Scientist | Mobile App Developer (Flutter) | ML Enthusiast**
-🎓 Currently a student at **42 Berlin**
-🎓 **Master’s in Data Science**, University of Europe for Applied Sciences
-🎓 **B.Tech in Computer Science**, ABVGIET
+- 🚀 **Programmer | Data Scientist | Mobile App Developer (Flutter) | ML Enthusiast**
+- 🎓 Currently a student at **42 Berlin**
+- 🎓 **Master’s in Data Science**, University of Europe for Applied Sciences
+- 🎓 **B.Tech in Computer Science**, ABVGIET
 
 ---
 
@@ -28,8 +28,7 @@
 
 <p>
   <img height="32" src="https://cdn.thekrishna.in/img/icon/python.svg"/>  
-  <img height="32" src="https://thepracticaldev.s3.amazonaws.com/i/mq33e4a63bduhbljfiop.png"/>  
-  <img height="32" src="https://dartpad.dev/dart-192.png"/>  
+  <img height="32" src="https://thepracticaldev.s3.amazonaws.com/i/mq33e4a63bduhbljfiop.png"/> 
   <img height="32" src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png"/>  
   <img height="32" src="https://cdn.thekrishna.in/img/icon/java.svg"/>  
   <img height="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg"/>  
