@@ -1,8 +1,6 @@
 
 # 👋 Hi, I'm Prashant Singh
 
-<p align="center"><img src="https://imgur.com/wd3bnrm.gif" width="400"/></p>
-
 - 🚀 **Programmer | Data Scientist | Mobile App Developer (Flutter) | ML Enthusiast**
 - 🎓 Currently a student at **42 Berlin**
 - 🎓 **Master’s in Data Science**, University of Europe for Applied Sciences
